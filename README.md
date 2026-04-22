@@ -10,6 +10,8 @@ Turn a YouTube link into a clean Obsidian note with:
 
 This is a workflow setup for Obsidian desktop using QuickAdd, Templater, and a Python helper script. It is not a standalone Obsidian plugin.
 
+![Screenshot](preview.png)
+
 ## What this is
 
 This project turns a YouTube link into a structured Obsidian note. It uses QuickAdd to trigger the workflow, Templater to generate the note, a Python helper to fetch the thumbnail and transcript, and the OpenAI API to generate a summary.
